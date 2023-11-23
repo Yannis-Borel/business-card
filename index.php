@@ -18,7 +18,7 @@
                                     
                                 </div>
                             </div>
-                            <!-- Main Blog Post -->
+                            <!-- Main Blog Post 1234 -->
                                 <div class="col-md-11 col-sm-10 col-xs-10">
                                 <?php if(businesscard_disable_featured_image()):?>
                                 <a href="<?php the_permalink(); ?>">
